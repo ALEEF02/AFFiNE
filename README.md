@@ -47,7 +47,7 @@ _Special thanks to [Blaze](https://runblaze.dev) for their support of this proje
 </div>
 <br/>
 
-[![Releases](https://img.shields.io/github/downloads/toeverything/AFFiNE/total)](https://github.com/toeverything/AFFiNE/releases/latest)
+[![Releases](https://img.shields.io/github/downloads/ALEEF02/AFFiNE/total)](https://github.com/ALEEF02/AFFiNE/releases/latest)
 [![All Contributors][all-contributors-badge]](#contributors)
 [![TypeScript-version-icon]](https://www.typescriptlang.org/)
 
@@ -60,7 +60,7 @@ _Special thanks to [Blaze](https://runblaze.dev) for their support of this proje
 <br />
 
 <div align="center">
-<img src="https://github.com/toeverything/AFFiNE/assets/79301703/49a426bb-8d2b-4216-891a-fa5993642253" style="width: 100%"/>
+<img src="https://github.com/ALEEF02/AFFiNE/assets/79301703/49a426bb-8d2b-4216-891a-fa5993642253" style="width: 100%"/>
 </div>
 
 ## Getting started & staying tuned with us.
@@ -109,14 +109,14 @@ Thanks for checking us out, we appreciate your interest and sincerely hope that 
 
 | Bug Reports                                                                                                                                         | Feature Requests                                                                                                                                               | Questions/Discussions                                                         | AFFiNE Community                                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------- |
-| [Create a bug report](https://github.com/toeverything/AFFiNE/issues/new?assignees=&labels=bug%2Cproduct-review&template=BUG-REPORT.yml&title=TITLE) | [Submit a feature request](https://github.com/toeverything/AFFiNE/issues/new?assignees=&labels=feat%2Cproduct-review&template=FEATURE-REQUEST.yml&title=TITLE) | [Check GitHub Discussion](https://github.com/toeverything/AFFiNE/discussions) | [Vist the AFFiNE Community](https://community.affine.pro) |
+| [Create a bug report](https://github.com/ALEEF02/AFFiNE/issues/new?assignees=&labels=bug%2Cproduct-review&template=BUG-REPORT.yml&title=TITLE) | [Submit a feature request](https://github.com/ALEEF02/AFFiNE/issues/new?assignees=&labels=feat%2Cproduct-review&template=FEATURE-REQUEST.yml&title=TITLE) | [Check GitHub Discussion](https://github.com/ALEEF02/AFFiNE/discussions) | [Vist the AFFiNE Community](https://community.affine.pro) |
 | Something isn't working as expected                                                                                                                 | An idea for a new feature, or improvements                                                                                                                     | Discuss and ask questions                                                     | A place to ask, learn and engage with others              |
 
 Calling all developers, testers, tech writers and more! Contributions of all types are more than welcome, you can read more in [docs/types-of-contributions.md](docs/types-of-contributions.md). If you are interested in contributing code, read our [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) and feel free to check out our GitHub issues to get stuck in to show us what you’re made of.
 
 **Before you start contributing, please make sure you have read and accepted our [Contributor License Agreement]. To indicate your agreement, simply edit this file and submit a pull request.**
 
-For **bug reports**, **feature requests** and other **suggestions** you can also [create a new issue](https://github.com/toeverything/AFFiNE/issues/new/choose) and choose the most appropriate template for your feedback.
+For **bug reports**, **feature requests** and other **suggestions** you can also [create a new issue](https://github.com/ALEEF02/AFFiNE/issues/new/choose) and choose the most appropriate template for your feedback.
 
 For **translation** and **language support** you can visit our [i18n General Space](https://community.affine.pro/c/i18n-general).
 
@@ -161,7 +161,7 @@ Welcome to the AFFiNE blog section! Here, you’ll find the latest insights, tip
 
 | Name                                             |                            |                                                                                                                                         |
 | ------------------------------------------------ | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| [@affine/component](packages/frontend/component) | AFFiNE Component Resources | ![](https://img.shields.io/codecov/c/github/toeverything/affine?style=flat-square)                                                      |
+| [@affine/component](packages/frontend/component) | AFFiNE Component Resources | ![](https://img.shields.io/codecov/c/github/aleef02/affine?style=flat-square)                                                      |
 | [@toeverything/theme](packages/common/theme)     | AFFiNE theme               | [![](https://img.shields.io/npm/dm/@toeverything/theme?style=flat-square&color=eee)](https://www.npmjs.com/package/@toeverything/theme) |
 
 ## Upstreams
@@ -177,7 +177,7 @@ We would also like to give thanks to open-source projects that make AFFiNE possi
 - [Jotai](https://github.com/pmndrs/jotai) - Primitive and flexible state management for React.
 - [async-call-rpc](https://github.com/Jack-Works/async-call-rpc) - A lightweight JSON RPC client & server.
 - [Vite](https://github.com/vitejs/vite) - Next generation frontend tooling.
-- Other upstream [dependencies](https://github.com/toeverything/AFFiNE/network/dependencies).
+- Other upstream [dependencies](https://github.com/ALEEF02/AFFiNE/network/dependencies).
 
 Thanks a lot to the community for providing such powerful and simple libraries, so that we can focus more on the implementation of the product logic, and we hope that in the future our projects will also provide a more easy-to-use knowledge base for everyone.
 
@@ -185,7 +185,7 @@ Thanks a lot to the community for providing such powerful and simple libraries, 
 
 We would like to express our gratitude to all the individuals who have already contributed to AFFiNE! If you have any AFFiNE-related project, documentation, tool or template, please feel free to contribute it by submitting a pull request to our curated list on GitHub: [awesome-affine](https://github.com/toeverything/awesome-affine).
 
-<a href="https://github.com/toeverything/affine/graphs/contributors">
+<a href="https://github.com/aleef02/affine/graphs/contributors">
   <img alt="contributors" src="https://opencollective.com/affine/contributors.svg?width=890&button=false" />
 </a>
 
@@ -235,16 +235,16 @@ Thanks to [Chromatic](https://www.chromatic.com/) for providing the visual testi
 
 See [LICENSE] for details.
 
-[all-contributors-badge]: https://img.shields.io/github/contributors/toeverything/AFFiNE
+[all-contributors-badge]: https://img.shields.io/github/contributors/ALEEF02/AFFiNE
 [license]: ./LICENSE
 [building.md]: ./docs/BUILDING.md
 [update page]: https://affine.pro/blog?tag=Release%20Note
 [jobs available]: ./docs/jobs.md
-[latest packages]: https://github.com/toeverything/AFFiNE/pkgs/container/affine-self-hosted
-[contributor license agreement]: https://github.com/toeverything/affine/edit/canary/.github/CLA.md
-[stars-icon]: https://img.shields.io/github/stars/toeverything/AFFiNE.svg?style=flat&logo=github&colorB=red&label=stars
-[codecov]: https://codecov.io/gh/toeverything/affine/branch/canary/graphs/badge.svg?branch=canary
+[latest packages]: https://github.com/ALEEF02/AFFiNE/pkgs/container/affine-self-hosted
+[contributor license agreement]: https://github.com/aleef02/affine/edit/canary/.github/CLA.md
+[stars-icon]: https://img.shields.io/github/stars/ALEEF02/AFFiNE.svg?style=flat&logo=github&colorB=red&label=stars
+[codecov]: https://codecov.io/gh/aleef02/affine/branch/canary/graphs/badge.svg?branch=canary
 [node-version-icon]: https://img.shields.io/badge/node-%3E=18.16.1-success
-[typescript-version-icon]: https://img.shields.io/github/package-json/dependency-version/toeverything/affine/dev/typescript
-[react-version-icon]: https://img.shields.io/github/package-json/dependency-version/toeverything/AFFiNE/react?filename=packages%2Ffrontend%2Fcore%2Fpackage.json&color=rgb(97%2C228%2C251)
-[blocksuite-icon]: https://img.shields.io/github/package-json/dependency-version/toeverything/AFFiNE/@blocksuite/store?color=6880ff&filename=packages%2Ffrontend%2Fcore%2Fpackage.json&label=blocksuite
+[typescript-version-icon]: https://img.shields.io/github/package-json/dependency-version/aleef02/affine/dev/typescript
+[react-version-icon]: https://img.shields.io/github/package-json/dependency-version/ALEEF02/AFFiNE/react?filename=packages%2Ffrontend%2Fcore%2Fpackage.json&color=rgb(97%2C228%2C251)
+[blocksuite-icon]: https://img.shields.io/github/package-json/dependency-version/ALEEF02/AFFiNE/@blocksuite/store?color=6880ff&filename=packages%2Ffrontend%2Fcore%2Fpackage.json&label=blocksuite
